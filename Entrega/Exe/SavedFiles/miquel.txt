@@ -1,0 +1,4 @@
+boardProperties: 4 true 6 codemaker 0124
+puntuation: 1
+currentTurn: 1
+machineCode: 0011

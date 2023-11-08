@@ -1,0 +1,5 @@
+Directori Entrega
+
+/Exe Conté l'executable i els arxius necessaris per aquest
+/Docu Conté la documentación del projecte
+/Font Conté totes les classes del projecte

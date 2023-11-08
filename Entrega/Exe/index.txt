@@ -1,0 +1,4 @@
+Directori Exe
+
+/images Conté una imatge necessaria per a la presentació del joc
+/savedFiles i savedRanking.txt son elements realties al guard de partides i rècords.

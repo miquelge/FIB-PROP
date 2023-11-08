@@ -1,0 +1,7 @@
+Directori Font
+
+/Data Conté les classes necessàries per al guardat i carregat de partides i rànkings
+/Domini Conté totes les classes del domini i el seu controlador
+/Presentation Conté totes les classes relatives a la uI del projecte i el seu controlador
+
+* Cada un d'aquest directoris està dividit segons el membre del grup amb mes importància en la implementació.
